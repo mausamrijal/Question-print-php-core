@@ -1,2 +1,1 @@
-# Question-print-php-core
-Question print php core
+This is a question paper print php core file that deal will creating quesion paper with costumm field and sclass school name and so on ![image](https://github.com/user-attachments/assets/45c54368-aa0d-45f8-9b03-1ecfd44cd5f9)
